@@ -40,8 +40,9 @@ footer{
     }
 
     .cartao__conteudo{
+background-color: var(--card-front-color);
 text-align: center;
-background-color: rgb(55, 0, 255);
+height: 100%;
 
     }
 
