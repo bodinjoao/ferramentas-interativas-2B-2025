@@ -10,6 +10,35 @@ background: url(img/bg-desktop.webp);
     font-family: Bai Jamjuree;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 footer{
     background-color: black;
     color: aliceblue;
@@ -43,6 +72,7 @@ footer{
 background-color: var(--card-front-color);
 text-align: center;
 height: 100%;
+transform-style: preserve-3d ;
 
     }
 
